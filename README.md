@@ -1,4 +1,4 @@
-# Adgile Methodology
+# TechConnect-Agile
 <p>This project is a website for thecompany TechConnect, and its purpose is to create more sales for TechConmnect by allowing online purchases and advertisements</p>
 
 <p>Project Lead - Aayan</p>
